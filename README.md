@@ -8,7 +8,12 @@ Installing
 ==========
 Copy this repository into the applications folder of a web2py installation.
 
-To run the webpack example webpack and npm must be installed in the system. Then, from the static/src folder, npm install & webpack must be run
+To run the webpack example webpack and npm must be installed in the system. 
+Then, from the static/src folder, run
+```sh
+npm install
+npm run build
+```
 
 Demoing
 ==========
